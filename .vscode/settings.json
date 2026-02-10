@@ -1,0 +1,12 @@
+{
+  // Force Gradle/Java tooling to use a JDK compatible with Android Gradle Plugin (Java 17+).
+  "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-21",
+  "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-21",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Program Files\\Java\\jdk-21",
+      "default": true
+    }
+  ]
+}
